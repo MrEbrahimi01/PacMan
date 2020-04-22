@@ -1,0 +1,10 @@
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\obj\Debug\PacMan.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\obj\Debug\PacMan.Form1.resources
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.Cache
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Mohammad Reza\Desktop\PacMan\PacMan\obj\Debug\PacMan.pdb
